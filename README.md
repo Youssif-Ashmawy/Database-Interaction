@@ -8,3 +8,6 @@ Open the Python file and modify the connection parameters in the connect() funct
 
 Running Instuctions:
 python3 program.py
+
+Video Link:
+https://youtu.be/6JnPmoF42y4
